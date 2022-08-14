@@ -1,1 +1,1 @@
-# Java Developer Course
+# Practice for PostgreSQL
